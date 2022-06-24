@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Desktop</folder>
+	<filename>Loader.png</filename>
+	<path>/Users/kishangodhani/Desktop/Loader.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2648</width>
+		<height>1514</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HS_Loader_Icon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1191</xmin>
+			<ymin>620</ymin>
+			<xmax>1402</xmax>
+			<ymax>827</ymax>
+		</bndbox>
+	</object>
+</annotation>

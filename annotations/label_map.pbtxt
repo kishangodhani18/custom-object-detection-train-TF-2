@@ -1,0 +1,16 @@
+item {
+    id: 1
+    name: 'hotstar_text_loader'
+}
+item {
+    id: 2
+    name: 'hotstar_logo'
+}
+item {
+    id: 3
+    name: 'hotstar_home_page'
+}
+item {
+    id: 4
+    name: 'person'
+}
